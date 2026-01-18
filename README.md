@@ -1,3 +1,3 @@
 <h1>Roomy's Cyber Security Portfolio</h1>
-<h2>Assessing Credible Threats & Creating a Safe Space<\h2>
+<h2>Assessing Credible Threats & Creating a Safe Space</h2>
 <p> I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. </p>
